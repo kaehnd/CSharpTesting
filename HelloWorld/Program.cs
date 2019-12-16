@@ -16,6 +16,8 @@ namespace HelloWorld
             string input = Console.ReadLine();
             Console.WriteLine(input);
             Console.WriteLine("Done");
+
+            Console.WriteLine("Do more stuff");
         }
     }
 }
